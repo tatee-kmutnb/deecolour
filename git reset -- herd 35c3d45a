@@ -1,0 +1,17 @@
+[33mcommit 01cf0ba339ad1504738d1623609af25d364e5d52[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;32mmaster[m[33m)[m
+Author: tatee <tatee.kmutnb@gmail.com>
+Date:   Sun Jun 21 00:45:51 2020 +0700
+
+    issues-001 update routes
+
+[33mcommit 35c3d45a6a1941db480f700f8fb274ec96ad08f2[m
+Author: tatee <tatee.kmutnb@gmail.com>
+Date:   Sun Jun 21 00:40:36 2020 +0700
+
+    updated develop routes web.php
+
+[33mcommit 11f49b5ed1552bf2877bef4ad1b613c7b1745067[m
+Author: tatee <tatee.kmutnb@gmail.com>
+Date:   Sun Jun 21 00:32:21 2020 +0700
+
+    comment project origin
