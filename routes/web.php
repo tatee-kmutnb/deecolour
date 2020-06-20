@@ -14,4 +14,5 @@ Auth::routes();
 
 Route::get('/', 'Auth\LoginController@index');
 Route::post('login', 'Auth\LoginController@login');
+Route::get('dashbaord', 'DashboardController@index');
 
